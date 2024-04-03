@@ -1,5 +1,7 @@
 package studio8;
 
+import java.util.Scanner;
+
 public class Question {
 	private String prompt;
 	private String answer;
